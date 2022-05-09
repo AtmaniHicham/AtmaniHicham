@@ -17,7 +17,7 @@ Postdoctoral researcher | Data scientist
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Python" /></a>
 <a href="https://root.cern/" target="_blank" rel="noreferrer"><img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="36" height="36" alt="Python" /></a>
-<a href="https://fr.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" width="36" height="36" alt="Python" /></a>
+<a href="https://fr.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"><img src="https://abrudz.github.io/logos/Maple.jpg" width="36" height="36" alt="Python" /></a>
   
   
