@@ -6,7 +6,7 @@ Postdoctoral researcher | Data scientist
 
 * 🌍  I'm based in SG Pouilly, France
 * ✉️  You can contact me at [atmani.hicham.work@gmail.com](mailto:atmani.hicham.work@gmail.com)
-* 🚀  I'm currently working on [CERN](http://https://home.cern/)
+* 🚀  I'm currently working on [CERN](http://home.cern/)
 * 🤝  I'm open to collaborating on Data science projects
 
 <a href="https://www.github.com/AtmaniHicham" target="_blank" rel="noreferrer"><img
