@@ -9,7 +9,6 @@ Postdoctoral researcher | Data scientist
 * 🚀  I'm currently working on [CERN](http://home.cern/)
 * 🤝  I'm open to collaborating on Data science projects
 
-<a href="https://www.github.com/AtmaniHicham" target="_blank" rel="noreferrer"><img
 ### Skills
 
 <p align="left">
@@ -28,7 +27,10 @@ Postdoctoral researcher | Data scientist
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="36" height="36" alt="C" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="46" height="40" alt="C" /></a>
 
-</p>
+<a href="https://fr.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"><img src="https://fr.maplesoft.com/images2015/resources/Maple/Maple_2015_logo.jpg" width="36" height="36" alt="Python" /></a>
+
+
 
 ### Socials
 
