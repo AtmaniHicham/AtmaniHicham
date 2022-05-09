@@ -21,9 +21,9 @@ src="https://img.shields.io/github/followers/AtmaniHicham?logo=github&style=for-
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="40" height="40" alt="C" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="36" height="36" alt="C" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="56" height="36" alt="C" /></a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="36" height="36" alt="C" /></a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="40" height="36" alt="C" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="36" height="36" alt="C" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" height="36" alt="C" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="46" height="46" alt="C" /></a>
 
 </p>
 
